@@ -27,3 +27,4 @@ function removeClass() {
     var vd=document.getElementById("change");
     vd.classList.remove("dclass");
 }
+
